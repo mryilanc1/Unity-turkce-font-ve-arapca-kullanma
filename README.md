@@ -3,8 +3,16 @@
 ## Unity'ye TextMestPro ile Font eklemeyi nasıl yapılcağı resimlerle anlatılmıştır.
 
 
+
+
+
+
+
 ## Unity'de Arapça harflerin sağdan sola yazımı ve arapça harflerin nasıl kaynaştırıldığı resimlerle anlatılmıştır.
   Resimlede Geçen Github'daki Asset Linki : https://github.com/AbdullahAlimam/Arabic-Support-for-Unity-UI 
+
+
+
 
 
 ![1](https://user-images.githubusercontent.com/41707639/58756214-2f32e380-84fc-11e9-97e5-e9edf5f8953a.PNG)
