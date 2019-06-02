@@ -6,10 +6,12 @@
 
 
 
-
+....
 
 ## Unity'de Arapça harflerin sağdan sola yazımı ve arapça harflerin nasıl kaynaştırıldığı resimlerle anlatılmıştır.
-  Resimlede Geçen Github'daki Asset Linki : https://github.com/AbdullahAlimam/Arabic-Support-for-Unity-UI 
+ 
+ 
+ Resimlede Geçen Github'daki Arapça Asset Linki : https://github.com/AbdullahAlimam/Arabic-Support-for-Unity-UI 
 
 
 
