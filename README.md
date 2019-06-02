@@ -1,9 +1,9 @@
-## Unity-incelikleri
+# Unity-incelikleri
 
-# Unity'ye TextMestPro ile Font eklemeyi nasıl yapılcağı resimlerle anlatılmıştır.
+## Unity'ye TextMestPro ile Font eklemeyi nasıl yapılcağı resimlerle anlatılmıştır.
 
 
-# Unity'de Arapça harflerin sağdan sola yazımı ve arapça harflerin nasıl kaynaştırıldığı resimlerle anlatılmıştır.
+## Unity'de Arapça harflerin sağdan sola yazımı ve arapça harflerin nasıl kaynaştırıldığı resimlerle anlatılmıştır.
   Resimlede Geçen Github'daki Asset Linki : https://github.com/AbdullahAlimam/Arabic-Support-for-Unity-UI 
 
 
