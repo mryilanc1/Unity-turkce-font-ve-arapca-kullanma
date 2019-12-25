@@ -1,9 +1,11 @@
 ### Unity'de Türkçe font özelleştirme ve Arapça'da yaşanan harf birleşme sorunun çözümü
 
+
+
+
+
+
 ## Unity'ye TextMestPro ile Font eklemeyi nasıl yapılcağı resimlerle anlatılmıştır.
-
-
-
 
 
 ....
