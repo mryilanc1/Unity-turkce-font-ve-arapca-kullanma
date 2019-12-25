@@ -1,16 +1,16 @@
-### Unity'de Türkçe font özelleştirme ve Arapça'da yaşanan harf birleşme sorunun çözümü
+## Unity'de Türkçe font özelleştirme ve Arapça'da yaşanan harf birleşme sorunun çözümü
 
 
 
 
 
 
-## Unity'ye TextMestPro ile Font eklemeyi nasıl yapılcağı resimlerle anlatılmıştır.
+# Unity'ye TextMestPro ile Font eklemeyi nasıl yapılcağı resimlerle anlatılmıştır.
 
 
 ....
 
-## Unity'de Arapça harflerin sağdan sola yazımı ve arapça harflerin nasıl kaynaştırıldığı resimlerle anlatılmıştır.
+# Unity'de Arapça harflerin sağdan sola yazımı ve arapça harflerin nasıl kaynaştırıldığı resimlerle anlatılmıştır.
  
  
  Resimlede Geçen Github'daki Arapça Asset Linki : https://github.com/AbdullahAlimam/Arabic-Support-for-Unity-UI 
